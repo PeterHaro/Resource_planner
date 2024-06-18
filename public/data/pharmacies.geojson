@@ -1,0 +1,469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.409302, 63.434478]
+      },
+      "properties": {
+        "id": "_GSiIeeVceSAHza_6aSi8w",
+        "name": "Nina Rimmer Stiles",
+        "phone": "+47 405 53 565",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "2B",
+          "streetName": "Dokkgata",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7042",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Dokkgata 2B, 7042 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1455688477,
+        "info": "search:ta:578006000015539-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43412,
+              "lon": 10.41004
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.418069, 63.409791]
+      },
+      "properties": {
+        "id": "okxEhSuvZiwPyPkEye-idw",
+        "name": "Apotek 1 Nardo",
+        "phone": "+47 73 93 58 00",
+        "brands": [
+          {
+            "name": "Apotek 1"
+          }
+        ],
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "url": "www.apotek1.no/vaare-apotek/trondelag/nardo-1207",
+        "categories": ["pharmacy"],
+        "address": {
+          "streetName": "Nardobakken",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7032",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Nardobakken, 7032 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1455125809,
+        "info": "search:ta:578007000077957-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.41015,
+              "lon": 10.41782
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.397403, 63.407252]
+      },
+      "properties": {
+        "id": "VMV9AooneCZSlbS_aNsOQQ",
+        "name": "Alliance Apotek Tempe",
+        "phone": "+47 73 55 70 00",
+        "brands": [
+          {
+            "name": "Alliance Apotek"
+          }
+        ],
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "url": "www.allianceapotek.no",
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "22",
+          "streetName": "Tempevegen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7031",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Tempevegen 22, 7031 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1455090046,
+        "info": "search:ta:578001000004798-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.40707,
+              "lon": 10.39711
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.358319, 63.40653]
+      },
+      "properties": {
+        "id": "Z48l7ObLYl58dNY5k7lABQ",
+        "name": "Vitusapotek",
+        "phone": "+47 73 79 08 30",
+        "brands": [
+          {
+            "name": "Vitusapotek"
+          }
+        ],
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "162",
+          "streetName": "Byåsveien",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7021",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Byåsveien 162, 7021 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1454963684,
+        "info": "search:ta:578006000007602-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.40648,
+              "lon": 10.35903
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.345159, 63.366265]
+      },
+      "properties": {
+        "id": "zccnNLCQV3xOzZOxSU4U0g",
+        "name": "Boots apotek Saupstad",
+        "phone": "+47 72 59 92 60",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "url": "www.boots.no",
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "3",
+          "streetName": "Reier Søbstads veg",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7078",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Reier Søbstads veg 3, 7078 Saupstad",
+          "localName": "Saupstad"
+        },
+        "score": 2.1454699039,
+        "info": "search:ta:578001000004800-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.36614,
+              "lon": 10.34517
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.412224, 63.434625]
+      },
+      "properties": {
+        "id": "xSa-5SCyKCGwDqlo6V6pyg",
+        "name": "Apoteket St. Olav",
+        "phone": "+47 73 88 37 37",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "4",
+          "streetName": "Beddingen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7014",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Beddingen 4, 7014 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1454694271,
+        "info": "search:ta:578009000175800-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43441,
+              "lon": 10.41217
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.393885, 63.422676]
+      },
+      "properties": {
+        "id": "srBF0AVDxIlykV0t6-wXEg",
+        "name": "Elgsæter Apotek",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "21",
+          "streetName": "Klostergata",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7030",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Klostergata 21, 7030 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1454668045,
+        "info": "search:ta:578009000284902-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.42279,
+              "lon": 10.39388
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.330172, 63.387244]
+      },
+      "properties": {
+        "id": "sMMl0e6bPmnXDxQH3xurqw",
+        "name": "Apotek 1 Stavset",
+        "phone": "+47 72 56 53 10",
+        "brands": [
+          {
+            "name": "Apotek 1"
+          }
+        ],
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "url": "www.apotek1.no",
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "2",
+          "streetName": "Enromvegen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7026",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Enromvegen 2, 7026 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1454601288,
+        "info": "search:ta:578001000077260-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.38698,
+              "lon": 10.33003
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.347767, 63.367825]
+      },
+      "properties": {
+        "id": "e52g8L5bNuZeKSJEf_reTg",
+        "name": "Vitusapotek",
+        "phone": "+47 72 59 00 10",
+        "brands": [
+          {
+            "name": "Vitusapotek"
+          }
+        ],
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "6",
+          "streetName": "Saupstadringen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7078",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Saupstadringen 6, 7078 Saupstad",
+          "localName": "Saupstad"
+        },
+        "score": 2.1454548836,
+        "info": "search:ta:578006000004420-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.36774,
+              "lon": 10.34778
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.396103, 63.433623]
+      },
+      "properties": {
+        "id": "wRiyrioxD-wql8kkq7cE-A",
+        "name": "Løveapoteket",
+        "phone": "+47 73 83 32 83",
+        "categorySet": [
+          {
+            "id": 7326
+          }
+        ],
+        "categories": ["pharmacy"],
+        "address": {
+          "streetNumber": "28",
+          "streetName": "Olav Tryggvasons Gate",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7011",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Olav Tryggvasons Gate 28, 7011 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.1454534531,
+        "info": "search:ta:578009000283989-NO",
+        "entryPoints": [
+          {
+            "type": "minor",
+            "position": {
+              "lat": 63.43351,
+              "lon": 10.39727
+            }
+          },
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43324,
+              "lon": 10.39584
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

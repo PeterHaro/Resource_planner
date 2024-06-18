@@ -1,0 +1,742 @@
+[
+  {
+    "type": "POI",
+    "id": "NInZPHYcAjLAjwXoxJ00yg",
+    "score": 2.5746090412,
+    "info": "search:ta:578009000343180-NO",
+    "poi": {
+      "name": "Sankt Olavs Hospital Avdeling Brøset",
+      "phone": "+47 72 82 37 00",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "url": "stolav.no/steder/broset",
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "100",
+      "streetName": "Brøsetvegen",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7046",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Brøsetvegen 100, 7046 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.419769,
+      "lon": 10.456832
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.42078,
+        "lon": 10.45472
+      },
+      "btmRightPoint": {
+        "lat": 63.41932,
+        "lon": 10.45816
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.41959,
+          "lon": 10.45692
+        }
+      }
+    ],
+    "dataSources": {
+      "geometry": {
+        "id": "ca778644-4a7c-4d8c-b4b9-60d3e21f2a5b"
+      }
+    }
+  },
+  {
+    "type": "POI",
+    "id": "ZmwlI9GB5rVvaEnL7nTxag",
+    "score": 2.5745761395,
+    "info": "search:ta:578006000014660-NO",
+    "poi": {
+      "name": "Agnete Malm Gulati",
+      "phone": "+47 900 41 641",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "225",
+      "streetName": "Klæbuveien",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7037",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Klæbuveien 225, 7037 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.397985,
+      "lon": 10.407361
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.39888,
+        "lon": 10.40535
+      },
+      "btmRightPoint": {
+        "lat": 63.39709,
+        "lon": 10.40937
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.39817,
+          "lon": 10.4072
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "zlS-E5oyQ8-OlWfwxusKaw",
+    "score": 2.5745663643,
+    "info": "search:ta:578006000011493-NO",
+    "poi": {
+      "name": "Munkvoll Helse-Og Velferdssenter",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "10",
+      "streetName": "Vikingvegen",
+      "municipalitySubdivision": "Klæbu",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7540",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Vikingvegen 10, 7540 Klæbu",
+      "localName": "Klæbu"
+    },
+    "position": {
+      "lat": 63.299848,
+      "lon": 10.482237
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.30075,
+        "lon": 10.48024
+      },
+      "btmRightPoint": {
+        "lat": 63.29895,
+        "lon": 10.48424
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.29983,
+          "lon": 10.48244
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "DnUnoNbuHIoYNoFzM243lA",
+    "score": 2.5745637417,
+    "info": "search:ta:578009000342823-NO",
+    "poi": {
+      "name": "Sankt Olavs Hospital",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "url": "www.stolav.no",
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "17",
+      "streetName": "Olav Kyrres Gate",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7034",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Olav Kyrres Gate 17, 7034 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.420067,
+      "lon": 10.388913
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.42292,
+        "lon": 10.38407
+      },
+      "btmRightPoint": {
+        "lat": 63.41726,
+        "lon": 10.39514
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.42051,
+          "lon": 10.38905
+        }
+      },
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.42012,
+          "lon": 10.38691
+        }
+      }
+    ],
+    "dataSources": {
+      "geometry": {
+        "id": "00004e4f-3300-3c00-0000-00005a99a013"
+      }
+    }
+  },
+  {
+    "type": "POI",
+    "id": "7FI7uzvmaA15n5KELij4qw",
+    "score": 2.5745544434,
+    "info": "search:ta:578006000017494-NO",
+    "poi": {
+      "name": "Blussuvoll Health Station",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "18",
+      "streetName": "Sigurd Jorsalfars Veg",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7052",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Sigurd Jorsalfars Veg 18, 7052 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.420478,
+      "lon": 10.432045
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.42138,
+        "lon": 10.43004
+      },
+      "btmRightPoint": {
+        "lat": 63.41958,
+        "lon": 10.43405
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.42039,
+          "lon": 10.43199
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "AbwBYKdmA9WU-YkBJKB_bw",
+    "score": 2.574552536,
+    "info": "search:ta:578006000016661-NO",
+    "poi": {
+      "name": "Helmut Abendstein",
+      "phone": "+47 922 50 061",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "6",
+      "streetName": "Gautes Gate",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7030",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Gautes Gate 6, 7030 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.422799,
+      "lon": 10.385897
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.4237,
+        "lon": 10.38389
+      },
+      "btmRightPoint": {
+        "lat": 63.4219,
+        "lon": 10.38791
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.42271,
+          "lon": 10.38557
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "u6hXlKMpv529twxLI4-lwQ",
+    "score": 2.5745317936,
+    "info": "search:ta:578009000381463-NO",
+    "poi": {
+      "name": "Orkdal Sanitetsforenings Sykehus",
+      "phone": "+47 72 47 00 00",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "url": "stolav.no/seksjon-avdeling/Sider/Orkdal-sykehus.aspx",
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "3",
+      "streetName": "Sjukehusvegen",
+      "municipalitySubdivision": "Orkanger",
+      "municipality": "Orkland",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7300",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Sjukehusvegen 3, 7300 Orkanger",
+      "localName": "Orkanger"
+    },
+    "position": {
+      "lat": 63.292399,
+      "lon": 9.845954
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.29514,
+        "lon": 9.84363
+      },
+      "btmRightPoint": {
+        "lat": 63.29193,
+        "lon": 9.85211
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.29235,
+          "lon": 9.84551
+        }
+      }
+    ],
+    "dataSources": {
+      "geometry": {
+        "id": "00004e4f-3300-3c00-0000-00005a999fea"
+      }
+    }
+  },
+  {
+    "type": "POI",
+    "id": "jCSfNwN7MJXCRRiTbtcAsw",
+    "score": 2.5745141506,
+    "info": "search:ta:578009001762554-NO",
+    "poi": {
+      "name": "Værnesregionen Legevakt",
+      "phone": "+47 74 83 32 40",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "url": "www.stjordal.kommune.no",
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "1A",
+      "streetName": "Breidablikkvegen",
+      "municipality": "Stjørdal",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7500",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Breidablikkvegen 1A, 7500 Stjørdal",
+      "localName": "Stjørdal"
+    },
+    "position": {
+      "lat": 63.468751,
+      "lon": 10.931059
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.46965,
+        "lon": 10.92905
+      },
+      "btmRightPoint": {
+        "lat": 63.46785,
+        "lon": 10.93307
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.46872,
+          "lon": 10.93178
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "j8OS-HzAc_m_OzuzyYLsHg",
+    "score": 2.5745117664,
+    "info": "search:ta:578006000016048-NO",
+    "poi": {
+      "name": "Voldtektsmottaket Sankt Olav",
+      "phone": "+47 72 57 12 12",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "17",
+      "streetName": "Olav Kyrres Gate",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7030",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Olav Kyrres Gate 17, 7030 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.420839,
+      "lon": 10.388086
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.42174,
+        "lon": 10.38608
+      },
+      "btmRightPoint": {
+        "lat": 63.41994,
+        "lon": 10.3901
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.42051,
+          "lon": 10.38827
+        }
+      }
+    ]
+  },
+  {
+    "type": "POI",
+    "id": "CUAIFcZw9z8IxBJOl_Ssqw",
+    "score": 2.574511528,
+    "info": "search:ta:578009000377092-NO",
+    "poi": {
+      "name": "Sankt Olavs Hospital Avdeling Østmarka",
+      "categorySet": [
+        {
+          "id": 7321002
+        }
+      ],
+      "url": "stolav.no/avdelinger/divisjon-psykisk-helsevern",
+      "categories": [
+        "general",
+        "hospital/polyclinic"
+      ],
+      "classifications": [
+        {
+          "code": "HOSPITAL_POLYCLINIC",
+          "names": [
+            {
+              "nameLocale": "en-US",
+              "name": "general"
+            },
+            {
+              "nameLocale": "en-US",
+              "name": "hospital/polyclinic"
+            }
+          ]
+        }
+      ]
+    },
+    "address": {
+      "streetNumber": "15",
+      "streetName": "Østmarkveien",
+      "municipality": "Trondheim",
+      "countrySubdivision": "Trøndelag",
+      "countrySubdivisionName": "Trøndelag",
+      "countrySubdivisionCode": "50",
+      "postalCode": "7040",
+      "countryCode": "NO",
+      "country": "Norway",
+      "countryCodeISO3": "NOR",
+      "freeformAddress": "Østmarkveien 15, 7040 Trondheim",
+      "localName": "Trondheim"
+    },
+    "position": {
+      "lat": 63.452111,
+      "lon": 10.450268
+    },
+    "viewport": {
+      "topLeftPoint": {
+        "lat": 63.45432,
+        "lon": 10.44854
+      },
+      "btmRightPoint": {
+        "lat": 63.45171,
+        "lon": 10.45569
+      }
+    },
+    "entryPoints": [
+      {
+        "type": "main",
+        "position": {
+          "lat": 63.45191,
+          "lon": 10.45002
+        }
+      }
+    ],
+    "dataSources": {
+      "geometry": {
+        "id": "fde3eb4e-afa3-49be-9b63-cb4a5a121de1"
+      }
+    }
+  }
+]

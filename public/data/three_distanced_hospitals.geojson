@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.482237,
+          63.299848
+        ]
+      },
+      "properties": {
+        "id": "zlS-E5oyQ8-OlWfwxusKaw",
+        "name": "Munkvoll Helse-Og Velferdssenter",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "address": {
+          "streetNumber": "10",
+          "streetName": "Vikingvegen",
+          "municipalitySubdivision": "Klæbu",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7540",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Vikingvegen 10, 7540 Klæbu",
+          "localName": "Klæbu"
+        },
+        "score": 2.5745663643,
+        "num_vaccines": 7230,
+        "info": "search:ta:578006000011493-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.29983,
+              "lon": 10.48244
+            }
+          }
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.388913,
+          63.420067
+        ]
+      },
+      "properties": {
+        "id": "DnUnoNbuHIoYNoFzM243lA",
+        "name": "Sankt Olavs Hospital",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "url": "www.stolav.no",
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "address": {
+          "streetNumber": "17",
+          "streetName": "Olav Kyrres Gate",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7034",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Olav Kyrres Gate 17, 7034 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.5745637417,
+        "num_vaccines": 79832,
+        "info": "search:ta:578009000342823-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.42051,
+              "lon": 10.38905
+            }
+          },
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.42012,
+              "lon": 10.38691
+            }
+          }
+        ],
+        "dataSources": {
+          "geometry": {
+            "id": "00004e4f-3300-3c00-0000-00005a99a013"
+          }
+        }
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.845954,
+          63.292399
+        ]
+      },
+      "properties": {
+        "id": "u6hXlKMpv529twxLI4-lwQ",
+        "name": "Orkdal Sanitetsforenings Sykehus",
+        "phone": "+47 72 47 00 00",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "url": "stolav.no/seksjon-avdeling/Sider/Orkdal-sykehus.aspx",
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "address": {
+          "streetNumber": "3",
+          "streetName": "Sjukehusvegen",
+          "municipalitySubdivision": "Orkanger",
+          "municipality": "Orkland",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7300",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Sjukehusvegen 3, 7300 Orkanger",
+          "localName": "Orkanger"
+        },
+        "score": 2.5745317936,
+        "num_vaccines": 11832,
+        "info": "search:ta:578009000381463-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.29235,
+              "lon": 9.84551
+            }
+          }
+        ],
+        "dataSources": {
+          "geometry": {
+            "id": "00004e4f-3300-3c00-0000-00005a999fea"
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.931059,
+          63.468751
+        ]
+      },
+      "properties": {
+        "id": "jCSfNwN7MJXCRRiTbtcAsw",
+        "name": "Værnesregionen Legevakt",
+        "phone": "+47 74 83 32 40",
+        "categorySet": [
+          {
+            "id": 7321002
+          }
+        ],
+        "url": "www.stjordal.kommune.no",
+        "categories": [
+          "general",
+          "hospital/polyclinic"
+        ],
+        "address": {
+          "streetNumber": "1A",
+          "streetName": "Breidablikkvegen",
+          "municipality": "Stjørdal",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7500",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Breidablikkvegen 1A, 7500 Stjørdal",
+          "localName": "Stjørdal"
+        },
+        "score": 2.5745141506,
+        "info": "search:ta:578009001762554-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.46872,
+              "lon": 10.93178
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

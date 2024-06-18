@@ -1,0 +1,432 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.435789, 63.411226]
+      },
+      "properties": {
+        "id": "4N8e1FGnea1BMywLlssR_Q",
+        "name": "Kelly Services",
+        "phone": "+47 73 99 18 40",
+        "categorySet": [
+          {
+            "id": 9352039
+          }
+        ],
+        "url": "www.kellyservices.no",
+        "categories": ["company", "services"],
+        "address": {
+          "streetName": "Jonsvannsveien",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7050",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Jonsvannsveien, 7050 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.0042073727,
+        "info": "search:ta:578007000054373-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.41102,
+              "lon": 10.43505
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.421573, 63.43516]
+      },
+      "properties": {
+        "id": "rG_oQQldWoADn-i_6_A_Sg",
+        "name": "Stavran Services",
+        "categorySet": [
+          {
+            "id": 9361024
+          }
+        ],
+        "categories": ["food drinks: food shops", "shop"],
+        "address": {
+          "streetNumber": "78B",
+          "streetName": "Øvre Møllenberg Gate",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7068",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Øvre Møllenberg Gate 78B, 7068 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 2.0041460991,
+        "info": "search:ta:578009001370583-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43524,
+              "lon": 10.4214
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.429479, 63.442163]
+      },
+      "properties": {
+        "id": "wzfLtQLME6vxzLXBB6Fk1g",
+        "name": "ISS Facility services",
+        "phone": "+47 915 05 155",
+        "categorySet": [
+          {
+            "id": 9352029
+          }
+        ],
+        "categories": ["cleaning services", "company"],
+        "address": {
+          "streetNumber": "3",
+          "streetName": "Stiklestadveien",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7041",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Stiklestadveien 3, 7041 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 1.9847567081,
+        "info": "search:ta:578009005282653-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.44185,
+              "lon": 10.42932
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.467348, 63.431879]
+      },
+      "properties": {
+        "id": "KpUSP6WgTouIDwJz-MCw4A",
+        "name": "Insider Facility Services",
+        "phone": "+47 452 34 111",
+        "categorySet": [
+          {
+            "id": 9352029
+          }
+        ],
+        "url": "www.insider.no",
+        "categories": ["cleaning services", "company"],
+        "address": {
+          "streetNumber": "6",
+          "streetName": "Travbanevegen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7044",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Travbanevegen 6, 7044 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 1.9846819639,
+        "info": "search:ta:578009001848623-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43217,
+              "lon": 10.46722
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.342583, 63.364784]
+      },
+      "properties": {
+        "id": "TMl8zaY4W4s5PMBj3n-2vQ",
+        "name": "Sairis Hidalgo Martinez Services",
+        "phone": "+47 414 82 211",
+        "categorySet": [
+          {
+            "id": 9352029
+          }
+        ],
+        "categories": ["cleaning services", "company"],
+        "address": {
+          "streetNumber": "40D",
+          "streetName": "Husebyvegen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7097",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Husebyvegen 40D, 7097 Saupstad",
+          "localName": "Saupstad"
+        },
+        "score": 1.9656671286,
+        "info": "search:ta:578009004330379-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.3652,
+              "lon": 10.34258
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.348511, 63.367099]
+      },
+      "properties": {
+        "id": "dBoLBRhWG1Zip10hKvC0bQ",
+        "name": "Roxyan Services Roxana-Mihaela Iancu",
+        "categorySet": [
+          {
+            "id": 9361067
+          }
+        ],
+        "categories": ["beauty salon", "shop"],
+        "address": {
+          "streetNumber": "8A",
+          "streetName": "Saupstadringen",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7078",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Saupstadringen 8A, 7078 Saupstad",
+          "localName": "Saupstad"
+        },
+        "score": 1.9469367266,
+        "info": "search:ta:578009001433891-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.36706,
+              "lon": 10.34861
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.439801, 63.437905]
+      },
+      "properties": {
+        "id": "dFk9q1n29EyQpQB2B1tF9Q",
+        "name": "Iss Facility Services Avd Eiendomsservice Trondheim",
+        "phone": "+47 22 88 50 00",
+        "categorySet": [
+          {
+            "id": 9361
+          }
+        ],
+        "categories": ["shop"],
+        "address": {
+          "streetNumber": "108",
+          "streetName": "Innherredsveien",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7067",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Innherredsveien 108, 7067 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 1.9285185337,
+        "info": "search:ta:578009001744152-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43766,
+              "lon": 10.43994
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.402606, 63.430966]
+      },
+      "properties": {
+        "id": "_JUXvFcg4EPSHUG_POMmpA",
+        "name": "Iss Facility Services Avdeling Star Information Systems",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": ["restaurant"],
+        "address": {
+          "streetNumber": "35",
+          "streetName": "Kjøpmannsgata",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7011",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Kjøpmannsgata 35, 7011 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 1.9105496407,
+        "info": "search:ta:578009004522938-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43099,
+              "lon": 10.4025
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.383303, 63.432233]
+      },
+      "properties": {
+        "id": "B5iTDziTGihnLBIKfVsySg",
+        "name": "Iss Facility Services Avdeling 423002 Erling Haug",
+        "phone": "+47 22 88 50 00",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": ["restaurant"],
+        "address": {
+          "streetNumber": "24",
+          "streetName": "Vestre Kanalkai",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7010",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Vestre Kanalkai 24, 7010 Trondheim",
+          "localName": "Trondheim"
+        },
+        "score": 1.9105418921,
+        "info": "search:ta:578009004517592-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.43231,
+              "lon": 10.38322
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.360006, 63.349805]
+      },
+      "properties": {
+        "id": "BSIKqeoGBh7oXAsA99M9BQ",
+        "name": "Iss Facility Services Avdeling 423047 Iss Kantine Adresseavisen",
+        "categorySet": [
+          {
+            "id": 7315
+          }
+        ],
+        "categories": ["restaurant"],
+        "address": {
+          "streetNumber": "13",
+          "streetName": "Industriveien",
+          "municipality": "Trondheim",
+          "countrySubdivision": "Trøndelag",
+          "countrySubdivisionName": "Trøndelag",
+          "countrySubdivisionCode": "50",
+          "postalCode": "7072",
+          "countryCode": "NO",
+          "country": "Norway",
+          "countryCodeISO3": "NOR",
+          "freeformAddress": "Industriveien 13, 7072 Heimdal",
+          "localName": "Heimdal"
+        },
+        "score": 1.9104839563,
+        "info": "search:ta:578009004537559-NO",
+        "entryPoints": [
+          {
+            "type": "main",
+            "position": {
+              "lat": 63.3498,
+              "lon": 10.36011
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
