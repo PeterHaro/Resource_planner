@@ -1,11 +1,13 @@
-import {Component, createSignal} from 'solid-js';
+// App.tsx
+import { Component, createSignal } from 'solid-js';
 import * as atlas from 'azure-maps-control';
 import AzureMap from "./components/AzureMap";
 import * as turf from '@turf/turf';
-import InteractiveSearch from "./components/AzureMapSearch";
 import DataPreloader from "./components/DataPreloader";
 import ConcentricIsochronesService from "./components/calculate_consentric_isochrones";
 import IsochroneLegend from "./components/IsochroneLegend";
+import SidebarMenu from "./components/SidebarMenu"; // Import the new SidebarMenu component
+import './sidebar-menu.css'; // Import the CSS file for sidebar menu
 
 const App: Component = () => {
     const subscriptionKey = import.meta.env.VITE_AZURE_MAPS_SUBSCRIPTION_KEY;
@@ -26,18 +28,6 @@ const App: Component = () => {
             });
         }
     };
-
-    /*function closePolygonRings(polygon) {
-        //Ensure the first and last coordinate of each polygon ring are identical to form a closed polygon ring.
-        for (var i = 0; i < polygon.geometry.coordinates.length; i++) {
-            var ring = polygon.geometry.coordinates[i];
-
-            if (!atlas.data.Position.areEqual(ring[0], ring[ring.length - 1])) {
-                ring.push(ring[0]);
-            }
-        }
-    }*/
-
 
     const calculateIsochrone = (coordinates: [number, number]) => {
         generateConcentricIsochrones(coordinates, ranges);
@@ -82,11 +72,6 @@ const App: Component = () => {
 
             if (polygons.length > 0) {
                 isochronesDatasource.add(polygons);
-
-                // Update the map camera to display the largest isochrone area.
-                // mapRef.setCamera({
-                //   bounds: atlas.data.BoundingBox.fromData(polygons[polygons.length - 1])
-                // });
             }
         } catch (error) {
             console.error('Error calculating isochrones:', error);
@@ -99,12 +84,9 @@ const App: Component = () => {
             mapInstance.sources.add(isochronesDatasource);
 
             mapInstance.layers.add([
-                //Create a polygon layer to render the isochrones.
                 new atlas.layer.PolygonLayer(isochronesDatasource, null, {
                     fillColor: ['get', 'color']
                 }),
-
-                //Create a layer to outline the polygon areas.
                 new atlas.layer.LineLayer(isochronesDatasource, null, {
                     strokeColor: 'white'
                 })
@@ -113,28 +95,27 @@ const App: Component = () => {
     };
 
     return (
-        <div style={{width: '100vw', height: '100vh', position: 'relative'}}>
-            <AzureMap
-                subscriptionKey={subscriptionKey}
-                center={[10.3951, 63.4305]} // Optional: specify the initial center
-                zoom={10} // Optional: specify the initial zoom level
-                onMapReady={handleMapReady}
-            />
-            {map() && (
-                <>
-                    <InteractiveSearch
-                        map={map()}
-                        subscriptionKey={subscriptionKey}
-                    />
-                    <DataPreloader
-                        map={map()}
-                        paths={['/data/pharmacies.geojson', '/data/three_distanced_hospitals.geojson', '/data/truck_depot.geojson']}
-                        layerNames={['Pharmacies', 'Hospitals', 'Truck Depot']}
-                        onCalculateIsochrone={calculateIsochrone}
-                    />
-                    {showLegend() && <IsochroneLegend ranges={ranges} colors={colors} />}
-                </>
-            )}
+        <div style={{ display: 'flex', width: '100vw', height: '100vh' }}>
+            <SidebarMenu map={map()} subscriptionKey={subscriptionKey} /> {/* Add SidebarMenu component */}
+            <div style={{ flex: 1, position: 'relative' }}>
+                <AzureMap
+                    subscriptionKey={subscriptionKey}
+                    center={[10.3951, 63.4305]}
+                    zoom={10}
+                    onMapReady={handleMapReady}
+                />
+                {map() && (
+                    <>
+                        <DataPreloader
+                            map={map()}
+                            paths={['/data/pharmacies.geojson', '/data/three_distanced_hospitals.geojson', '/data/truck_depot.geojson']}
+                            layerNames={['Pharmacies', 'Hospitals', 'Truck Depot']}
+                            onCalculateIsochrone={calculateIsochrone}
+                        />
+                        {showLegend() && <IsochroneLegend ranges={ranges} colors={colors} />}
+                    </>
+                )}
+            </div>
         </div>
     );
 };
