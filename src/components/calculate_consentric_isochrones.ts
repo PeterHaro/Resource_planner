@@ -7,7 +7,7 @@ interface Coordinate {
 
 interface IsochroneOptions {
     range: number[]; // Array of isochrone ranges in minutes
-    mode: 'car' | 'pedestrian' | 'truck' | 'van'; // Travel mode
+    mode: 'car' | 'pedestrian' | 'truck' | 'van' | 'bus'; // Travel mode
 }
 
 interface IsochroneResponse {
