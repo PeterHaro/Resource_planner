@@ -2,9 +2,12 @@
 import { createSignal } from 'solid-js';
 import InteractiveSearch from "./AzureMapSearch";
 import atlas from "azure-maps-control";
+import InteractiveVehiclePicker from './VeichlePicker';
+import { IsochroneOptions } from './calculate_consentric_isochrones';
+import transportationOptions from './transportationOptions';
 
 const SidebarMenu = ({ map, subscriptionKey }) => {
-    const [isExpanded, setIsExpanded] = createSignal(false);
+    const [isExpanded, setIsExpanded] = createSignal(true);
     const [activeTab, setActiveTab] = createSignal('resources');
     const [resourcesQuery, setResourcesQuery] = createSignal('');
     const [everythingQuery, setEverythingQuery] = createSignal('');
@@ -120,6 +123,9 @@ const SidebarMenu = ({ map, subscriptionKey }) => {
                                 </ul>
                             </>
                         )}
+                    </div>
+                    <div>
+                    <InteractiveVehiclePicker transportationMethods={transportationOptions()} />
                     </div>
                 </div>
             )}

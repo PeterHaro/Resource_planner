@@ -5,7 +5,7 @@ interface Coordinate {
     longitude: number;
 }
 
-interface IsochroneOptions {
+export interface IsochroneOptions {
     range: number[]; // Array of isochrone ranges in minutes
     mode: 'car' | 'pedestrian' | 'truck' | 'van' | 'bus'; // Travel mode
 }
